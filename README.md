@@ -1,5 +1,7 @@
 # ML for Trading
 
+> **Gold 15-minute algo trading project:** see [GOLD_PROJECT.md](GOLD_PROJECT.md) for the code, setup and learning path.
+
 - List of code, papers, and resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
 
 # Contents
